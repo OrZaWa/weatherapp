@@ -206,3 +206,4 @@ master
     .add(revealContent)
 
 master.pause();
+console.log("test");
